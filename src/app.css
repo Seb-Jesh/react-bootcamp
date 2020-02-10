@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.Machine {
+  border: 2px solid black;
+  background: lightblue;
+}
+
+.Machine-Winner {
+  color: green;
+  font-size: 50px;
+  background: wheat;
+}
+
+.Machine-Loser {
+  color: red;
+  font-size: 40px;
+  background: wheat;
+}
